@@ -1,12 +1,14 @@
 html {
     height: 100%;
-    width: 100%;    
+    width: 100%;  
+    margin: 30px 40px;
 }
 
 h1, h2 {
     font-family: 'Lucida Sana', 'Lucida Sana Regular',
     'Lucida Grande', 'Lucida Sans Unicode', Geneva,
     Verdana, sans-serif;
+    color: darkred;
 }
 
 p {
